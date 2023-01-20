@@ -1,5 +1,7 @@
-# Dork-Maker in EN
+# Dork-Maker in EN #
 Self Explanatory, but Dork maker in Tinker &amp; Python
+
+<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## Credit to https://github.com/MTT768
 He made the original code.
